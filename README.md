@@ -22,7 +22,6 @@ Projet en binome:
 + ADAFRUIT UNIFIED SENSOR
 + Rtc by Makuna
 + DHT
-+ DHT_U.h>
 + LiquidCrystal
 + Wire
 
